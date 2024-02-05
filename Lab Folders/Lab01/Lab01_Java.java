@@ -7,6 +7,7 @@ void testMethod1()
 
 
   //Last line print('Good bye')
+  //Change example
 }
 
 void testMethod2()
